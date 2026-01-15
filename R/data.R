@@ -31,6 +31,18 @@ NULL
 #' @source \url{https://covidtracking.com/about-data/data-definitions}
 "CovidMN"
 
+
+
+#' @title copepod
+#' @description Simulated data set containing measurements of copepod oxygen consumption rates at different ambient water temperatures
+#' @format A data frame with 120 rows and 2 variables:
+#' \describe{
+#'   \item{\code{Temp}}{double Ambient water temperature (C), ranging from 5C to 30C.}
+#'   \item{\code{Oxygen}}{double Mass-specific oxygen consumption rate (\eqn{\mu g} \eqn{O_2} / mg / hour).}
+#'}
+#' @source Data were simulated to represent an often observed non-linear relationship between temperature and metabolic rates.
+"copepod"
+
 #' @title WolfPathogen
 #' @description Pathogen and parasite exposure data collected on gray wolves by Brandell et al. (2021).
 #' @format A data frame with 1986 rows and 23 variables:
