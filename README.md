@@ -16,6 +16,7 @@ This package contains several data sets associated with the book, *Statistics fo
 - **CarnivoreScat**:  data from feeding trials used to build biomass models relating consumed biomass per collectable scat to prey weight.
 - **carppassage**: data from experimental trials aimed at blocking passage of carp in lock and dams along the Missippi River.
 - **clutch**:  Mallard (*Anas platyhynchos*) clutch sizes in two types of nest structures and cropland area within a 3.2-km radius circular buffer around the nest structure in western Minnesota during 1997–1999.
+- **copepod**: simulated data set containing measurements of oxygen consumption at different ambient temperatures from 120 individual marine copepods.
 - **CovidMN**: data on covid cases in Minnesota, downloaded on January 15, 2021
 - **d.grassall**:  counts of grassland birds in waterfowl production areas subjected to one of two treatments (cut or control). Data are from Thompson et al. 2016.
 - **d.woodall**:  counts of woodland/parkland birds  in waterfowl production areas subjected to one of two treatments (cut or control). Data are from Thompson et al. 2016.
